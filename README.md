@@ -10,7 +10,6 @@
   <img align="center" alt="Gabs-Json" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img align="center" alt="Gabs-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   <img align="center" alt="Gabs-Dotnet Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Gabs-Monogame" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/monogame/monogame-original.svg" />
   <img align="center" alt="Gabs-Godot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
   <img align="center" alt="Gabs-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabs-Vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
