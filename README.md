@@ -1,4 +1,5 @@
-![hylics](caminho/para/o.gif)
+![hylics](hylics-wayne.gif)
+![hylics-pc]()
 
 ##### Front-End: 
 <img width="230" src="https://skillicons.dev/icons?i=cs,ts,lua,html,css" />
