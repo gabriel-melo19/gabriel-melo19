@@ -32,7 +32,7 @@
 <br>
 
 <div align="center" >
-  <p width="100px" ><b>Back-End & Database</b></p> <img width="150" src="https://skillicons.dev/icons?i=dotnet,postman,postgresql,supabase" />
+  <p width="100px" ><b>Back-End & Database</b></p> <img width="190" src="https://skillicons.dev/icons?i=cs,dotnet,postman,postgresql,supabase" />
 </div>
 
 <br>
