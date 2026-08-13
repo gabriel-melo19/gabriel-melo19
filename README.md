@@ -1,8 +1,20 @@
-## Desenvolvedor de Software
+![hylics](caminho/para/o.gif)
 
-<div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,html,css,ts,tailwind,figma,git,github,godot,rider,vscode,linux" />
-</div>
+##### Front-End: 
+<img width="230" src="https://skillicons.dev/icons?i=cs,ts,lua,html,css" />
+
+##### Database:
+<img width="80" src="https://skillicons.dev/icons?i=postgresql,supabase" />
+
+##### Back-End:
+<img width="80" src="https://skillicons.dev/icons?i=dotnet,supabase" />
+
+##### Tools:
+<img width="230" src="https://skillicons.dev/icons?i=figma,docker,godot,git,github" />
+
+##### SO:
+<img width="40" src="https://skillicons.dev/icons?i=linux" />
+
 
 ## Redes
 
