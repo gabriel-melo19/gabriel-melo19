@@ -1,19 +1,45 @@
-![hylics](hylics-wayne.gif)
-![hylics-pc]()
+<div align="center">
+  <img src="hylics.gif" alt="gif" width="200"/>
+</div>
 
-##### Front-End: 
-<img width="230" src="https://skillicons.dev/icons?i=cs,ts,lua,html,css" />
+<br>
 
-##### Database:
-<img width="80" src="https://skillicons.dev/icons?i=postgresql,supabase" />
+<div align="center" >
+  <p width="400px" ><b>Gabriel Melo</b></p> <p>Desenvolvedor Web e Games</p>
+</div>
 
-##### Back-End:
-<img width="80" src="https://skillicons.dev/icons?i=dotnet,supabase" />
+<br>
 
-##### Tools:
-<img width="230" src="https://skillicons.dev/icons?i=figma,docker,godot,git,github" />
+<div align="center" >
+  <p width="100px" ><b>Front-End</b></p> <img width="200" src="https://skillicons.dev/icons?i=html,css,ts,tailwindcss,figma" />
+</div>
 
-##### SO:
+<br>
+
+<div align="center" >
+  <p width="100px" ><b>Back-End</b></p> <img width="80" src="https://skillicons.dev/icons?i=dotnet,postman" />
+</div>
+
+<br>
+
+<div align="center" >
+  <p width="100px" ><b>Game</b></p> <img width="140" src="https://skillicons.dev/icons?i=lua,godot,blender" />
+</div>
+
+<br>
+
+<div align="center" >
+  <p width="100px" ><b>Database</b></p> <img width="90" src="https://skillicons.dev/icons?i=postgresql,supabase" />
+</div>
+
+<br>
+
+<div align="center" >
+  <p width="100px" ><b>Tools</b></p> <img width="300" src="https://skillicons.dev/icons?i=vscode,rider,docker,godot,git,github,obsidian" />
+</div>
+
+<br>
+
 <img width="40" src="https://skillicons.dev/icons?i=linux" />
 
 
