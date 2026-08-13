@@ -35,7 +35,7 @@
 <br>
 
 <div align="center" >
-  <p width="100px" ><b>Tools</b></p> <img width="300" src="https://skillicons.dev/icons?i=vscode,rider,docker,godot,git,github,obsidian" />
+  <p width="100px" ><b>Tools</b></p> <img width="300" src="https://skillicons.dev/icons?i=vscode,rider,docker,git,github,obsidian" />
 </div>
 
 <br>
