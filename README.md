@@ -1,36 +1,13 @@
 <div align="center">
   <img src="hylics.gif" alt="gif" width="200"/>
-
-  <!--
-  <td valign="center">
-  <pre><font color="#39FF14"><b>
-  gabriel-melo19@bazzite
-  ---------------------- 
-
-  <br>
-  
-  Web
-  <img width="140" src="https://skillicons.dev/icons?i=html,css,ts,tailwindcss,figma" />
-  
-  Backend & Database
-  <img width="120" src="https://skillicons.dev/icons?i=dotnet,postman,postgresql,supabase" />
-  
-  Games 
-  <img width="110" src="https://skillicons.dev/icons?i=lua,godot,blender" />
-
-  Tools
-  <img width="200" src="https://skillicons.dev/icons?i=vscode,rider,docker,git,github,obsidian" />
-  </b></font></pre>
-  </td>
-
-  -->
-  
 </div>
+
 
 <div align="center">
   <pre><font color="#39FF14"><b>
   gabriel-melo19@bazzite
   ---------------------- 
+  Desenvolvedor Web e Games
   </b></font></pre>
 </div>
   
