@@ -1,5 +1,7 @@
 <div align="center">
   <img src="hylics.gif" alt="gif" width="200"/>
+
+  <!--
   <td valign="center">
   <pre><font color="#39FF14"><b>
   gabriel-melo19@bazzite
@@ -10,7 +12,7 @@
   Web
   <img width="140" src="https://skillicons.dev/icons?i=html,css,ts,tailwindcss,figma" />
   
-  Backend
+  Backend & Database
   <img width="120" src="https://skillicons.dev/icons?i=dotnet,postman,postgresql,supabase" />
   
   Games 
@@ -20,16 +22,29 @@
   <img width="200" src="https://skillicons.dev/icons?i=vscode,rider,docker,git,github,obsidian" />
   </b></font></pre>
   </td>
+
+  -->
+  
 </div>
 
+<div align="center">
+  <pre><font color="#39FF14"><b>
+  gabriel-melo19@bazzite
+  ---------------------- 
+  </b></font></pre>
+</div>
+  
 
 
 <!--
+
 <br>
 
 <div align="center" >
   <p width="400px" ><b>Gabriel Melo</b></p>  <p>Desenvolvedor Web e Games</p>
 </div>
+
+-->
 
 <br>
 
@@ -57,10 +72,8 @@
 
 <br>
 
--->
 
 
-## Redes
 
 <a href="https://www.linkedin.com/in/gabrielmelo19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
